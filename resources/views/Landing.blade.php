@@ -8,10 +8,10 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
 </head>
 
-<body>
+<body class="bg bg-dark">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 
-    <div class="container-fluid bg bg-dark">
+    <div class="container-fluid min-vh-100 d-flex justify-content-center align-items-center">
                 <div class="text-center text-white">
                     <br>
                     <br>
@@ -29,7 +29,7 @@
                     <br>
                     <br>
                     <br>
-                    <div class="button-container"> 
+                    <div class="button-container">
 
                     <button  type="button" class="btn btn-outline-secondary btn-rounded" data-mdb-ripple-init  data-mdb-ripple-color="dark"><a href="courses" style="text-decoration:none; color:aliceblue;">STUDENT DETAILS</a></button>
                     </div>

@@ -13,7 +13,6 @@
 
     <div class="container-fluid">
         <div class="container">
-            
             <div class="row pt-3 px-2 justify-content-center">
                 <div class="col">
                     <ul class="nav nav-tabs">
@@ -41,7 +40,7 @@
                                 <th>AGE</th>
                                 <th>ADDRESS</th>
                                 <th>CONTACT NO.</th>
-                                
+
                             </tr>
                         </thead>
                         <tbody>
